@@ -6,9 +6,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Annoncement 
+Announcement 
 ----
-**!!! PhD defense on the 4th of December 14h - click here for more information !!!** 
+**!!! PhD defense on December 4th at 14h (CET)- click here for more information !!!** 
 
 
 About me
