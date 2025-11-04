@@ -8,7 +8,7 @@ redirect_from:
 ---
 Announcement 
 ----
-**!!! PhD defense on December 4th at 14h (CET)- click here for more information !!!** 
+**!!! My PhD defense is on December 4th at 14h (CET)- click here for more information !!!** 
 
 
 About me
