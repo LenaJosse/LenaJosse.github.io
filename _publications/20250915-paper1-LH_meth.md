@@ -11,7 +11,7 @@ paperurl: 'https://academicpages.github.io/files/20250915-paper1-LH_meth.pdf'
 bibtexurl: 'https://academicpages.github.io/files/20250915-paper1-LH_meth.bib'
 journalurl: 'https://onlinelibrary.wiley.com/doi/10.1111/maps.70056'
 
-citation: 'Jossé, L., Dionnet, Z., Aléon-Toppani, A., Brunetto, R., King, A., Gardés, E., Heripré, E., Loizeau, D., Cryan, S. and Hatakeda, K. (2025), 3D SR-μXCT analysis for lithology detection: Application to Ryugu sample A0159. <i>Meteorit Planet Sci.<i> [https://doi.org/10.1111/maps.70056](https://doi.org/10.1111/maps.70056)'
+citation: 'Jossé, L., Dionnet, Z., Aléon-Toppani, A., Brunetto, R., King, A., Gardés, E., Heripré, E., Loizeau, D., Cryan, S. and Hatakeda, K. (2025), 3D SR-μXCT analysis for lithology detection: Application to Ryugu sample A0159. <i>Meteorit Planet Sci.<i> https://doi.org/10.1111/maps.70056'
 
 
 ---
