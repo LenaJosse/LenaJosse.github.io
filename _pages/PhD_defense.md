@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "PhD Defense Announcement"
-permalink: /PhD_defense/
+permalink: /defense/
 author_profile: true
 redirect_from:
   - /resume
@@ -9,16 +9,16 @@ redirect_from:
 
 {% include base_path %}
 
-I am pleased to announce the public defense of my doctoral thesis, conducted under the supervision of **Pr. Frédéric Schmidt** and **Dr. François Andrieu** at **GEOPS (Université Paris-Saclay)**.
+I will be defending my thesis at the **Institut d'Astrophysique Spatiale (Université Paris-Saclay, CNRS)** really soon, please find below all the important information to assist either remotely or in person ! This PhD was conducted under the supervision of [Rosario Brunetto](https://www.linkedin.com/in/rosario-brunetto-454a36127/), [Alice Aléon-Toppani](https://www.researchgate.net/profile/Alice-Aleon-Toppani) and [Zélia Dionnet](https://www.linkedin.com/in/z%C3%A9lia-dionnet-8b0784137/). 
 
 ---
 
 ### Date & Time:
-6 October 2025, 2:00 PM (Paris time, UTC+2)    
+4 December 2025, 2:00 PM (Paris time, UTC+2)    
 
 <div style="display:flex; flex-wrap:wrap; gap:8px;">
 
-  <a href="https://calendar.google.com/calendar/render?action=TEMPLATE&text=PhD+Defense+Léo+Martinez&dates=20251006T120000Z/20251006T160000Z&details=PhD+Defense+under+the+supervision+of+Prof.+Frédéric+Schmidt+and+Dr.+François+Andrieu+at+GEOPS+(Université+Paris-Saclay).+Join+via+Zoom:+https://universite-paris-saclay-fr.zoom.us/j/93874359215pwd=8HtlagOW527a09Ha36V3OxPGl9F8BY.1&location=Amphithéâtre+Blandin,+Laboratoire+de+Physique+des+Solides,+1+Rue+Nicolas+Appert,+91405+Orsay+Cedex,+France"
+  <a href="https://calendar.google.com/calendar/render?action=TEMPLATE&text=PhD+Defense+Léna+Jossé&dates=20251204T120000Z/20251204T160000Z&&location=,+Laboratoire+de+Physique+des+Solides,+1+Rue+Nicolas+Appert,+91405+Orsay+Cedex,+France"
      target="_blank" rel="noopener"
      style="flex:1; min-width:200px; text-align:center; padding:10px 14px; border-radius:8px; background:#34a853; color:#fff; text-decoration:none; font-weight:600; font-family:system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;">
     📅 Add to Google Calendar
@@ -35,7 +35,7 @@ I am pleased to announce the public defense of my doctoral thesis, conducted und
 
 
 ### Location:  
-**Blandin Amphitheater**     
+**Institut d'Astrophysique Spatiale**     
 [Laboratoire de Physique des Solides   
 1 rue Nicolas Appert, Bâtiment 510](https://maps.app.goo.gl/AgZ5aw3tUPTGKppXA)       
 91405 Orsay Cedex – France  
