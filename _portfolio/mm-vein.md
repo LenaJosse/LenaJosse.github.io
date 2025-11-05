@@ -1,6 +1,6 @@
 ---
 title: "A millimeter-sized vein of dolomite in a Ryugu sample !"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/mm-vein.png'>"
+excerpt: "Sample A0159 (in gray) contains numerous dolomite carbonate detections (in yellow), primarily forming a vein that extends across almost the entire sample. <br/><img src='/images/mm-vein.png'>"
 collection: portfolio
 ---
 
