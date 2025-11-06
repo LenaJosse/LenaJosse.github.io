@@ -27,12 +27,12 @@ The defense is to all, and everyone is warmly welcome to attend either in person
   </a>  
   
 </div>
+
 ---
 
-### You want participate ?
+# You want to participate?
 
-## In person
-# Location
+**_In person_**
 
 **Institut d'Astrophysique Spatiale**     
 Salle 1-2-3, [Institut d'Astrophysique Spatiale, Bâtiment 121][https://maps.app.goo.gl/AgZ5aw3tUPTGKppXA](https://www.google.com/maps/place/Institut+d'Astrophysique+Spatiale+-+CNRS+-+Universit%C3%A9+Paris-Saclay/@48.6989645,2.1720609,17z/data=!3m1!4b1!4m6!3m5!1s0x47e67f55574ed76b:0xbbfd9186d75a6271!8m2!3d48.698961!4d2.1746358!16s%2Fg%2F12283x9n?entry=ttu&g_ep=EgoyMDI1MTEwMi4wIKXMDSoASAFQAw%3D%3D)       
@@ -48,10 +48,9 @@ Salle 1-2-3, [Institut d'Astrophysique Spatiale, Bâtiment 121][https://maps.app
   </div>
 </div>
 
----
 
-## Online :
-# Live on YouTube
+**_Online_**
+**Live on YouTube**
 
 <a class="btn btn--primary btn--small" href="https://youtube.com/live/fp7e3oct2ww?feature=share" target="_blank" rel="noopener">
   Join via Youtube
