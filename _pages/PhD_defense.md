@@ -19,9 +19,9 @@ I will be defending my thesis at the **Institut d'Astrophysique Spatiale (Univer
 
 <div style="display:flex; flex-wrap:wrap; gap:8px;">
 
-  <a href="https://calendar.google.com/calendar/event?action=TEMPLATE&amp;tmeid=NGs3Z2lidG80Njk3N2dhbWhwbTJlcWMwMGwgYzFmOTZjMzgwZGYxMGEwZDMyOTI2OTFjNTdkZDI1YjZlMjcwYjQxNmUyNzFjMWM4Nzg5ODJiYzI5ODQ2ZDc0YkBn&amp;tmsrc=c1f96c380df10a0d3292691c57dd25b6e270b416e271c1c878982bc29846d74b%40group.calendar.google.com"><img border="0" src="https://calendar.google.com/calendar/images/ext/gc_button1_fr.gif" alt="Google Calendar" target="_blank" rel="noopener" style="flex:1; min-width:200px; text-align:center; padding:10px 14px; border-radius:8px; background:#34a853; color:#fff; text-decoration:none; font-weight:600; font-family:system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;" >
+  <a href="https://calendar.google.com/calendar/event?action=TEMPLATE&amp;tmeid=NGs3Z2lidG80Njk3N2dhbWhwbTJlcWMwMGwgYzFmOTZjMzgwZGYxMGEwZDMyOTI2OTFjNTdkZDI1YjZlMjcwYjQxNmUyNzFjMWM4Nzg5ODJiYzI5ODQ2ZDc0YkBn&amp;tmsrc=c1f96c380df10a0d3292691c57dd25b6e270b416e271c1c878982bc29846d74b%40group.calendar.google.com" target="_blank" rel="noopener" style="flex:1; min-width:200px; text-align:center; padding:10px 14px; border-radius:8px; background:#34a853; color:#fff; text-decoration:none; font-weight:600; font-family:system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;">
     📅 Add to Google Calendar
-  </a>
+  </a>  
   
 
   
