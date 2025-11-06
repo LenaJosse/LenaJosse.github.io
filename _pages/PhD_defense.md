@@ -13,7 +13,7 @@ I will be defending my thesis at the **Institut d'Astrophysique Spatiale (Univer
 
 This PhD was conducted under the supervision of **[Rosario Brunetto](https://www.linkedin.com/in/rosario-brunetto-454a36127/)**, **[Alice Aléon-Toppani](https://www.researchgate.net/profile/Alice-Aleon-Toppani)** and **[Zélia Dionnet](https://www.linkedin.com/in/z%C3%A9lia-dionnet-8b0784137/)**. 
 
-The defense is to all, and everyone is warmly welcome to attend either in person or online.  
+The defense is open to all, and everyone is warmly welcome to attend either in person or online.  
 
 ---
 
