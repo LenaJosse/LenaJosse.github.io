@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "PhD Defense Announcement"
-permalink: /defense/
+permalink: /PhD_defense/
 author_profile: true
 redirect_from:
   - /resume
