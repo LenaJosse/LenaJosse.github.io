@@ -30,14 +30,13 @@ I will be defending my thesis at the **Institut d'Astrophysique Spatiale (Univer
 
 ### Location:  
 **Institut d'Astrophysique Spatiale**     
-[Laboratoire de Physique des Solides   
-1 rue Nicolas Appert, Bâtiment 510](https://maps.app.goo.gl/AgZ5aw3tUPTGKppXA)       
+[Salle 1-2-3, Institut d'Astrophysique Spatiale, Bâtiment 121]([https://maps.app.goo.gl/AgZ5aw3tUPTGKppXA](https://www.google.com/maps/place/Institut+d'Astrophysique+Spatiale+-+CNRS+-+Universit%C3%A9+Paris-Saclay/@48.6989645,2.1720609,17z/data=!3m1!4b1!4m6!3m5!1s0x47e67f55574ed76b:0xbbfd9186d75a6271!8m2!3d48.698961!4d2.1746358!16s%2Fg%2F12283x9n?entry=ttu&g_ep=EgoyMDI1MTEwMi4wIKXMDSoASAFQAw%3D%3D))       
 91405 Orsay Cedex – France  
 
 <div style="max-width:500px; width:100%; margin:0;">
   <div style="position:relative; width:100%; padding-bottom:56.25%; height:0; overflow:hidden; border-radius:12px; box-shadow:0 2px 6px rgba(0,0,0,0.2);">
     <iframe
-      src="https://maps.google.com/maps?q=1%20Rue%20Nicolas%20Appert%2C%2091405%20Orsay&t=&z=16&ie=UTF8&iwloc=&output=embed"
+      src="https://www.google.com/maps/place/Institut+d'Astrophysique+Spatiale+-+CNRS+-+Universit%C3%A9+Paris-Saclay/@48.6989628,2.1733465,18z/data=!3m1!4b1!4m6!3m5!1s0x47e67f55574ed76b:0xbbfd9186d75a6271!8m2!3d48.698961!4d2.1746358!16s%2Fg%2F12283x9n?entry=ttu&g_ep=EgoyMDI1MTEwMi4wIKXMDSoASAFQAw%3D%3D"
       style="position:absolute; top:0; left:0; width:100%; height:100%; border:0;"
       loading="lazy" allowfullscreen>
     </iframe>
@@ -48,12 +47,11 @@ I will be defending my thesis at the **Institut d'Astrophysique Spatiale (Univer
 
 The defense is open to all, and everyone is warmly welcome to attend either in person or online.  
 
-### Public Zoom link:
+### In live YouTube link:
 
-<a class="btn btn--primary btn--small" href="https://universite-paris-saclay-fr.zoom.us/j/93874359215?pwd=8HtlagOW527a09Ha36V3OxPGl9F8BY.1" target="_blank" rel="noopener">
-  Join via Zoom
+<a class="btn btn--primary btn--small" href="https://youtube.com/live/fp7e3oct2ww?feature=share" target="_blank" rel="noopener">
+  Join via Youtube
 </a>
-
 ---
 ### Jury Members: 
 
