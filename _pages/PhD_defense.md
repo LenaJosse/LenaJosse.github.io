@@ -9,15 +9,16 @@ redirect_from:
 
 {% include base_path %}
 
-I will be defending my thesis at the **Institut d'Astrophysique Spatiale (Université Paris-Saclay, CNRS)** really soon, please find below all the important information to assist either remotely or in person ! This PhD was conducted under the supervision of [Rosario Brunetto](https://www.linkedin.com/in/rosario-brunetto-454a36127/), [Alice Aléon-Toppani](https://www.researchgate.net/profile/Alice-Aleon-Toppani) and [Zélia Dionnet](https://www.linkedin.com/in/z%C3%A9lia-dionnet-8b0784137/). 
+I will be defending my thesis at the **Institut d'Astrophysique Spatiale (Université Paris-Saclay, CNRS)** really soon, please find below all the important information to assist either remotely or in person ! 
+
+This PhD was conducted under the supervision of **[Rosario Brunetto](https://www.linkedin.com/in/rosario-brunetto-454a36127/)**, **[Alice Aléon-Toppani](https://www.researchgate.net/profile/Alice-Aleon-Toppani)** and **[Zélia Dionnet](https://www.linkedin.com/in/z%C3%A9lia-dionnet-8b0784137/)**. 
+
+The defense is to all, and everyone is warmly welcome to attend either in person or online.  
 
 ---
 
 ### Date & Time:
 4 December 2025, 2:00 PM (Paris time, UTC+2)    
-
-
-<a target="_blank" href="https://calendar.google.com/calendar/event?action=TEMPLATE&amp;tmeid=Nm03MG5jcTU1aGNva3BxMmRjcXZxcmFpcnEgZmE1YjY5NjAxYzEwMGVjZWE1ZmI0YjFkMmNhM2NiM2RkMDIwZTE0YTQwYTgxNzgwMjM5ZmQyMTQ5ZWEzMmFlY0Bn&amp;tmsrc=fa5b69601c100ecea5fb4b1d2ca3cb3dd020e14a40a81780239fd2149ea32aec%40group.calendar.google.com"><img border="0" src="https://calendar.google.com/calendar/images/ext/gc_button1_fr.gif" alt="Google Calendar"></a>
 
 <div style="display:flex; flex-wrap:wrap; gap:8px;">
 
@@ -26,11 +27,15 @@ I will be defending my thesis at the **Institut d'Astrophysique Spatiale (Univer
   </a>  
   
 </div>
+---
 
+### You want participate ?
 
-### Location:  
+## In person
+# Location
+
 **Institut d'Astrophysique Spatiale**     
-[Salle 1-2-3, Institut d'Astrophysique Spatiale, Bâtiment 121]([https://maps.app.goo.gl/AgZ5aw3tUPTGKppXA](https://www.google.com/maps/place/Institut+d'Astrophysique+Spatiale+-+CNRS+-+Universit%C3%A9+Paris-Saclay/@48.6989645,2.1720609,17z/data=!3m1!4b1!4m6!3m5!1s0x47e67f55574ed76b:0xbbfd9186d75a6271!8m2!3d48.698961!4d2.1746358!16s%2Fg%2F12283x9n?entry=ttu&g_ep=EgoyMDI1MTEwMi4wIKXMDSoASAFQAw%3D%3D))       
+Salle 1-2-3, [Institut d'Astrophysique Spatiale, Bâtiment 121]([https://maps.app.goo.gl/AgZ5aw3tUPTGKppXA](https://www.google.com/maps/place/Institut+d'Astrophysique+Spatiale+-+CNRS+-+Universit%C3%A9+Paris-Saclay/@48.6989645,2.1720609,17z/data=!3m1!4b1!4m6!3m5!1s0x47e67f55574ed76b:0xbbfd9186d75a6271!8m2!3d48.698961!4d2.1746358!16s%2Fg%2F12283x9n?entry=ttu&g_ep=EgoyMDI1MTEwMi4wIKXMDSoASAFQAw%3D%3D))       
 91405 Orsay Cedex – France  
 
 <div style="max-width:500px; width:100%; margin:0;">
@@ -45,9 +50,8 @@ I will be defending my thesis at the **Institut d'Astrophysique Spatiale (Univer
 
 ---
 
-The defense is open to all, and everyone is warmly welcome to attend either in person or online.  
-
-### In live YouTube link:
+## Online :
+# Live on YouTube
 
 <a class="btn btn--primary btn--small" href="https://youtube.com/live/fp7e3oct2ww?feature=share" target="_blank" rel="noopener">
   Join via Youtube
