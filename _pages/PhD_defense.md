@@ -16,7 +16,7 @@ I will be defending my thesis at the **Institut d'Astrophysique Spatiale (Univer
 ### Date & Time:
 4 December 2025, 2:00 PM (Paris time, UTC+2)    
 
-<a target="_blank" href="https://calendar.google.com/calendar/event?action=TEMPLATE&amp;tmeid=NGs3Z2lidG80Njk3N2dhbWhwbTJlcWMwMGwgYzFmOTZjMzgwZGYxMGEwZDMyOTI2OTFjNTdkZDI1YjZlMjcwYjQxNmUyNzFjMWM4Nzg5ODJiYzI5ODQ2ZDc0YkBn&amp;tmsrc=c1f96c380df10a0d3292691c57dd25b6e270b416e271c1c878982bc29846d74b%40group.calendar.google.com"><img border="0" src="https://calendar.google.com/calendar/images/ext/gc_button1_fr.gif" alt="Google Calendar"></a>
+<a target="_blank" href="https://calendar.google.com/calendar/event?action=TEMPLATE&amp;tmeid=Nm03MG5jcTU1aGNva3BxMmRjcXZxcmFpcnEgZmE1YjY5NjAxYzEwMGVjZWE1ZmI0YjFkMmNhM2NiM2RkMDIwZTE0YTQwYTgxNzgwMjM5ZmQyMTQ5ZWEzMmFlY0Bn&amp;tmsrc=fa5b69601c100ecea5fb4b1d2ca3cb3dd020e14a40a81780239fd2149ea32aec%40group.calendar.google.com"><img border="0" src="https://calendar.google.com/calendar/images/ext/gc_button1_fr.gif" alt="Google Calendar"></a>
 
 <div style="display:flex; flex-wrap:wrap; gap:8px;">
 
