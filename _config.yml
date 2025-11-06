@@ -28,10 +28,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "PhD in astrochemistry/astrogeology"
   location         : "Orsay (91), France"
-  employer         : | 
-  "IAS |
-  Univ. Paris-Saclay | 
-  CNRS  "
+  employer         : "Institut d'Astrophysique Spatiale/Univ. Paris-Saclay/CNRS"
   uri              : # URL
   email            : "lena.josse@universite-paris-saclay.fr"
 
