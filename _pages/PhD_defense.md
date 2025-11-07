@@ -93,12 +93,12 @@ And then walk (in red) to Bâtiment 121!
 ### Jury Members: 
 ➲ **[Rosario BRUNETTO](https://www.linkedin.com/in/rosario-brunetto-454a36127/)**, Directeur de thèse  
 ➲ **[Alice ALÉON-TOPPANI](https://www.researchgate.net/profile/Alice-Aleon-Toppani)**, Co-directrice de thèse  
-➲ **[Zélia DIONNET](https://www.linkedin.com/in/z%C3%A9lia-dionnet-8b0784137/)**, Co-directrice de thèse  
-➲ **[Frédéric MOYNIER](https://www.linkedin.com/in/fr%C3%A9d%C3%A9ric-moynier-312629a4/?originalSubdomain=fr)**, Rapporteur   
+➲ **[Zélia DIONNET](https://www.linkedin.com/in/z%C3%A9lia-dionnet-8b0784137/)**, Co-directrice de thèse
 ➲ **[Tahar HAMMOUDA](https://lmv.uca.fr/hammouda-tahar/)** Rapporteur   
-➲ **[Romy HANNA](https://www.jsg.utexas.edu/researcher/romy_hanna/)**, Examinatrice     
-➲ **[Matthew GENGE](https://profiles.imperial.ac.uk/m.genge)**, Examinateur  
+➲ **[Frédéric MOYNIER](https://www.linkedin.com/in/fr%C3%A9d%C3%A9ric-moynier-312629a4/?originalSubdomain=fr)**, Rapporteur 
 ➲ **[Sonia FORNASIER](https://www.researchgate.net/profile/Sonia-Fornasier)**, Examinatrice   
+➲ **[Matthew GENGE](https://profiles.imperial.ac.uk/m.genge)**, Examinateur  
+➲ **[Romy HANNA](https://www.jsg.utexas.edu/researcher/romy_hanna/)**, Examinatrice     
 
 ---
 
