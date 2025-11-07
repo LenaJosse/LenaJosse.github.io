@@ -51,16 +51,6 @@ Salle 1-2-3, [Institut d'Astrophysique Spatiale, Bâtiment 121](https://www.goog
 </div>
 
 
-<iframe 
-  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2634.735290822204!2d2.172061476943153!3d48.698961271460065!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47e67f55574ed76b%3A0xbbfd9186d75a6271!2sInstitut%20d'Astrophysique%20Spatiale%20-%20CNRS%20-%20Universit%C3%A9%20Paris-Saclay!5e0!3m2!1sfr!2sfr!4v1730990000000!5m2!1sfr!2sfr" 
-  width="600" 
-  height="450" 
-  style="border:0;" 
-  allowfullscreen="" 
-  loading="lazy" 
-  referrerpolicy="no-referrer-when-downgrade">
-</iframe>
-
 
 
 **_Online_**
