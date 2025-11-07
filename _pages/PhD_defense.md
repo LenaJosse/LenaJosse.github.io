@@ -76,14 +76,14 @@ Salle 1-2-3, [Institut d'Astrophysique Spatiale, Bâtiment 121](https://www.goog
 
 ---
 ### Jury Members: 
-
-➲ **[Frédéric SCHMIDT](https://fredericschmidt.github.io)**, Directreur de thèse  
-➲ **[François ANDRIEU](https://www.idref.fr/19359854X)**, Co-directreur de thèse  
-➲ **[Marc HUERTAS-COMPANY](https://mhuertascompany.github.io)**, Rapporteur   
-➲ **[Stéphane LE MOUELIC](https://lpg-umr6112.fr/member/le-mouelic-stephane/)**, Rapporteur   
-➲ **[Sylvain BOULEY](https://www.iufrance.fr/les-membres-de-liuf/membre/2071.html)**, Examinateur     
-➲ **[Myriam LEMELIN](https://www.usherbrooke.ca/geomatique/departement/personnel/personnel-enseignant/myriam-lemelin)**, Examinatrice  
-➲ **[Cathy QUANTIN-NATAF](https://eplanets.univ-lyon1.fr/equipe/permanents/cathy-quantin/)**, Examinatrice   
+➲ **[Rosario BRUNETTO](https://www.linkedin.com/in/rosario-brunetto-454a36127/)**, Directreur de thèse  
+➲ **[Alice ALÉON-TOPPANI](https://www.researchgate.net/profile/Alice-Aleon-Toppani)**, Co-directrice de thèse  
+➲ **[Zélia DIONNET](https://www.linkedin.com/in/z%C3%A9lia-dionnet-8b0784137/)**, Co-directrice de thèse  
+➲ **[Frédéric MOYNIER](https://www.linkedin.com/in/fr%C3%A9d%C3%A9ric-moynier-312629a4/?originalSubdomain=fr)**, Rapporteur   
+➲ **[Tahar HAMMOUDA](https://lmv.uca.fr/hammouda-tahar/)** Rapporteur   
+➲ **[Romy HANNA](https://www.jsg.utexas.edu/researcher/romy_hanna/)**, Examinatrice     
+➲ **[Matthew GENGE](https://profiles.imperial.ac.uk/m.genge)**, Examinateur
+➲ **[Sonia FORNASIER](https://www.researchgate.net/profile/Sonia-Fornasier)**, Examinatrice   
 
 ---
 
