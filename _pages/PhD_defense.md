@@ -70,9 +70,9 @@ Salle 1-2-3, [Institut d'Astrophysique Spatiale, Bâtiment 121](https://www.goog
     text-decoration: none; 
     display: inline-block;
     font-weight: bold;"
-    >
+    >  ▶ Join via YouTube
+
 </a>
-  ▶ Join via YouTube
 
 ---
 ### Jury Members: 
