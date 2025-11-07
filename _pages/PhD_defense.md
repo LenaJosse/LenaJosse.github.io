@@ -17,7 +17,7 @@ The defense is open to all, and everyone is warmly welcome to attend either in p
 
 ---
 
-### Date & Time:
+# Date & Time:
 4 December 2025, 2:00 PM (Paris time, UTC+2)    
 
 <div style="display:flex; flex-wrap:wrap; gap:8px;">
