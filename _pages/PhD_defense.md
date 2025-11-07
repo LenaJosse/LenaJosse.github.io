@@ -11,9 +11,9 @@ redirect_from:
 
 I will be defending my thesis at the **Institut d'Astrophysique Spatiale (Université Paris-Saclay, CNRS)** really soon, please find below all the important information to assist either remotely or in person ! 
 
-This PhD was conducted under the supervision of **[Rosario Brunetto](https://www.linkedin.com/in/rosario-brunetto-454a36127/)**, **[Alice Aléon-Toppani](https://www.researchgate.net/profile/Alice-Aleon-Toppani)** and **[Zélia Dionnet](https://www.linkedin.com/in/z%C3%A9lia-dionnet-8b0784137/)**. 
+This PhD was conducted under the supervision of **Rosario Brunetto**, **Alice Aléon-Toppani** and **Zélia Dionnet**. 
 
-The defense is open to all, and everyone is warmly welcome to attend either in person or online.  
+The defense is open to all, and everyone is warmly welcome to attend either online or in person.  
 
 ---
 
@@ -54,7 +54,7 @@ The defense is open to all, and everyone is warmly welcome to attend either in p
 
 **_In person_** at the Institut d'Astrophysique Spatiale in Orsay (91)
 
-**Institut d'Astrophysique Spatiale**     
+**Location**     
 Salle 1-2-3, [Institut d'Astrophysique Spatiale, Bâtiment 121](https://www.google.com/maps/place/Institut+d'Astrophysique+Spatiale+-+CNRS+-+Universit%C3%A9+Paris-Saclay/@48.6989645,2.1720609,17z/data=!3m1!4b1!4m6!3m5!1s0x47e67f55574ed76b:0xbbfd9186d75a6271!8m2!3d48.698961!4d2.1746358!16s%2Fg%2F12283x9n?entry=ttu&g_ep=EgoyMDI1MTEwMi4wIKXMDSoASAFQAw%3D%3D)       
 91405 Orsay Cedex – France  
 
@@ -75,7 +75,7 @@ At the station, exit on the west side to reach the Paris-Saclay campus, or on th
 
 
 <img
-  src="images/orsay-map.jpg" 
+  src="images/orsay-map.png" 
   alt="Map showing directions from Orsay-Ville station" 
   style="max-width: 100%; height: auto; border-radius: 8px; margin-top: 16px;">
 
