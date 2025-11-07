@@ -82,7 +82,7 @@ Salle 1-2-3, [Institut d'Astrophysique Spatiale, Bâtiment 121](https://www.goog
 ➲ **[Frédéric MOYNIER](https://www.linkedin.com/in/fr%C3%A9d%C3%A9ric-moynier-312629a4/?originalSubdomain=fr)**, Rapporteur   
 ➲ **[Tahar HAMMOUDA](https://lmv.uca.fr/hammouda-tahar/)** Rapporteur   
 ➲ **[Romy HANNA](https://www.jsg.utexas.edu/researcher/romy_hanna/)**, Examinatrice     
-➲ **[Matthew GENGE](https://profiles.imperial.ac.uk/m.genge)**, Examinateur
+➲ **[Matthew GENGE](https://profiles.imperial.ac.uk/m.genge)**, Examinateur  
 ➲ **[Sonia FORNASIER](https://www.researchgate.net/profile/Sonia-Fornasier)**, Examinatrice   
 
 ---
