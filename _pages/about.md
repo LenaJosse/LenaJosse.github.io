@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-**!!! Announcement: My PhD defense is on December 4th at 14h (CET)- click [here](https://lenajosse.github.io/PhD_defense/) for more information !!!** 
+** My PhD defense is on December 4th at 14h (CET)- click [here](https://lenajosse.github.io/PhD_defense/) for more information ** 
 
 About Me
 =====
