@@ -7,7 +7,7 @@ excerpt: 'This paper presents the development of a new method for detecting mine
 date: 2025-09-15
 venue: 'Meteoritical & Planetary Science'
 paperurl: 'https://onlinelibrary.wiley.com/doi/10.1111/maps.70056'
-bibtexurl: 'https://academicpages.github.io/files/20250915-paper1-LH_meth.bib'
+bibtexurl: 'https://LenaJosse.github.io/files/20250915-paper1-LH_meth.bib'
 
 citation: 'Jossé, L., Dionnet, Z., Aléon-Toppani, A., Brunetto, R., King, A., Gardés, E., Heripré, E., Loizeau, D., Cryan, S. and Hatakeda, K. (2025), 3D SR-μXCT analysis for lithology detection: Application to Ryugu sample A0159. Meteoritical & Planetary Science.'
 
