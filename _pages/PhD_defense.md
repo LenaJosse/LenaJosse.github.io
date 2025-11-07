@@ -70,9 +70,14 @@ Salle 1-2-3, [Institut d'Astrophysique Spatiale, Bâtiment 121](https://www.goog
 </div>
 
 **Venue**      
-You can take the RER B from Paris to Orsay-Ville (dir. St-Rémy lès Chevreuses). 
-At the train station, you go off either from the ouest exit to arrive in the Paris-Saclay campus or the east exit toward the city center of Orsay.  
+You can take the RER B from Paris to Orsay-Ville (direction Saint-Rémy-lès-Chevreuse).
+At the station, exit on the west side to reach the Paris-Saclay campus, or on the east side to go toward the city center of Orsay.
 
+
+<img
+  src="images/orsay-map.jpg" 
+  alt="Map showing directions from Orsay-Ville station" 
+  style="max-width: 100%; height: auto; border-radius: 8px; margin-top: 16px;">
 
 ---
 ### Jury Members: 
