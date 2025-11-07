@@ -53,9 +53,25 @@ Salle 1-2-3, [Institut d'Astrophysique Spatiale, Bâtiment 121](https://www.goog
 
 **_Online_** with YouTube live
 
-<a class="btn btn--primary btn--small" href="https://youtube.com/live/fp7e3oct2ww?feature=share" target="_blank" rel="noopener">
-  Join via Youtube
+<a 
+  class="btn btn--primary btn--small" 
+  href="https://youtube.com/live/fp7e3oct2ww?feature=share" 
+  target="_blank" 
+  rel="noopener"
+  style="
+    background-color: #FF0000; 
+    color: white; 
+    font-size: 1.1rem; 
+    padding: 12px 24px; 
+    border-radius: 6px; 
+    text-decoration: none; 
+    display: inline-block;
+    font-weight: bold;
+  "
+>
+  ▶ Join via YouTube
 </a>
+
 ---
 ### Jury Members: 
 
