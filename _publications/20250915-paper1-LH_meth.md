@@ -2,7 +2,7 @@
 title: "3D SR-µXCT analysis for lithology detection: Application to Ryugu sample A0159"
 collection: publications
 category: manuscripts
-permalink: /publication/0250915-paper1-LH_meth
+permalink: /publication/0250915-paper1-LH_meth.pdf
 excerpt: 'This paper presents the development of a new method for detecting mineralogical assemblage heterogeneities in millimeter-sized geological samples using X-ray micro-computed tomography (synchrotron radiation data). The method was applied to the Ryugu sample A0159.'
 date: 2025-09-15
 venue: 'Meteoritical & Planetary Science'
