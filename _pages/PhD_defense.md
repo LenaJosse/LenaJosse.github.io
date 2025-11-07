@@ -32,7 +32,7 @@ The defense is open to all, and everyone is warmly welcome to attend either in p
 
 # You want to participate?
 
-**_In person_** at IAS, Orsay (91)
+**_In person_** at the Institut d'Astrophysique Spatiale in Orsay (91)
 
 
 **Institut d'Astrophysique Spatiale**     
@@ -49,12 +49,15 @@ Salle 1-2-3, [Institut d'Astrophysique Spatiale, Bâtiment 121](https://www.goog
     </iframe>
   </div>
 </div>
+**To come**      
+
+
 ---
 
 **_Online_** with YouTube live
 
-<a 
-  class="btn btn--primary btn--small" 
+
+<a class="btn btn--primary btn--small" 
   href="https://youtube.com/live/fp7e3oct2ww?feature=share" 
   target="_blank" 
   rel="noopener"
@@ -66,11 +69,10 @@ Salle 1-2-3, [Institut d'Astrophysique Spatiale, Bâtiment 121](https://www.goog
     border-radius: 6px; 
     text-decoration: none; 
     display: inline-block;
-    font-weight: bold;
-  "
->
-  ▶ Join via YouTube
+    font-weight: bold;"
+    >
 </a>
+  ▶ Join via YouTube
 
 ---
 ### Jury Members: 
