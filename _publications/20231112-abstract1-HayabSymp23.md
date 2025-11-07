@@ -7,7 +7,7 @@ excerpt: 'This abstract is about the detection of a millimeter-sized vein of car
 date: 2023-11-12
 venue: 'Hayabusa Symposium 2023'
 paperurl: 'https://curation.isas.jaxa.jp/symposium/abstract/2023/S22-01_Josse.pdf'
-biburl: ''
+bibtexurl: 'https://LenaJosse.github.io/files/20231112-abstract1-HayabSymp23.bib'
 citation: 'Jossé, L., Dionnet, Z., Aléon-Toppani, A., Brunetto, R., King, A., Gardés, E., Heripré, E., Baklouti, D., Djouadi, Z., Lantz, C., et al. (2023). Three-dimensional description and characterization of lithologies in ryugu sample. *Hayabusa Symposium 2023*.'
 ---
 
