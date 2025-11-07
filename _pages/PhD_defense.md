@@ -81,7 +81,7 @@ Salle 1-2-3, [Institut d'Astrophysique Spatiale, Bâtiment 121](https://www.goog
 **Venue**      
 You can take the RER B (blue in the image below) from Paris to Orsay-Ville (direction Saint-Rémy-lès-Chevreuse).
 At the station, exit on the west side to reach the Paris-Saclay campus, or on the east side to go toward the city center of Orsay. 
-And then walk to Bâtiment 121 (in red)!
+And then walk (in red) to Bâtiment 121!
 
 
 <img
