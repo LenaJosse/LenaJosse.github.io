@@ -32,28 +32,6 @@ The defense is open to all, and everyone is warmly welcome to attend either in p
 
 # You want to participate?
 
-**_In person_** at the Institut d'Astrophysique Spatiale in Orsay (91)
-
-
-**Institut d'Astrophysique Spatiale**     
-Salle 1-2-3, [Institut d'Astrophysique Spatiale, Bâtiment 121](https://www.google.com/maps/place/Institut+d'Astrophysique+Spatiale+-+CNRS+-+Universit%C3%A9+Paris-Saclay/@48.6989645,2.1720609,17z/data=!3m1!4b1!4m6!3m5!1s0x47e67f55574ed76b:0xbbfd9186d75a6271!8m2!3d48.698961!4d2.1746358!16s%2Fg%2F12283x9n?entry=ttu&g_ep=EgoyMDI1MTEwMi4wIKXMDSoASAFQAw%3D%3D)       
-91405 Orsay Cedex – France  
-
-
-<div style="max-width:500px; width:100%; margin:0;">
-  <div style="position:relative; width:100%; padding-bottom:56.25%; height:0; overflow:hidden; border-radius:12px; box-shadow:0 2px 6px rgba(0,0,0,0.2);">
-    <iframe
-      src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2634.735290822204!2d2.172061476943153!3d48.698961271460065!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47e67f55574ed76b%3A0xbbfd9186d75a6271!2sInstitut%20d'Astrophysique%20Spatiale%20-%20CNRS%20-%20Universit%C3%A9%20Paris-Saclay!5e0!3m2!1sfr!2sfr!4v1730990000000!5m2!1sfr!2sfr" 
-      style="position:absolute; top:0; left:0; width:100%; height:100%; border:0;"
-      loading="lazy" allowfullscreen>
-    </iframe>
-  </div>
-</div>
-**To come**      
-
-
----
-
 **_Online_** with YouTube live
 
 
@@ -72,11 +50,33 @@ Salle 1-2-3, [Institut d'Astrophysique Spatiale, Bâtiment 121](https://www.goog
     font-weight: bold;"
     >  ▶ Join via YouTube
 
-</a>
+---
+
+**_In person_** at the Institut d'Astrophysique Spatiale in Orsay (91)
+
+**Institut d'Astrophysique Spatiale**     
+Salle 1-2-3, [Institut d'Astrophysique Spatiale, Bâtiment 121](https://www.google.com/maps/place/Institut+d'Astrophysique+Spatiale+-+CNRS+-+Universit%C3%A9+Paris-Saclay/@48.6989645,2.1720609,17z/data=!3m1!4b1!4m6!3m5!1s0x47e67f55574ed76b:0xbbfd9186d75a6271!8m2!3d48.698961!4d2.1746358!16s%2Fg%2F12283x9n?entry=ttu&g_ep=EgoyMDI1MTEwMi4wIKXMDSoASAFQAw%3D%3D)       
+91405 Orsay Cedex – France  
+
+
+<div style="max-width:500px; width:100%; margin:0;">
+  <div style="position:relative; width:100%; padding-bottom:56.25%; height:0; overflow:hidden; border-radius:12px; box-shadow:0 2px 6px rgba(0,0,0,0.2);">
+    <iframe
+      src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2634.735290822204!2d2.172061476943153!3d48.698961271460065!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47e67f55574ed76b%3A0xbbfd9186d75a6271!2sInstitut%20d'Astrophysique%20Spatiale%20-%20CNRS%20-%20Universit%C3%A9%20Paris-Saclay!5e0!3m2!1sfr!2sfr!4v1730990000000!5m2!1sfr!2sfr" 
+      style="position:absolute; top:0; left:0; width:100%; height:100%; border:0;"
+      loading="lazy" allowfullscreen>
+    </iframe>
+  </div>
+</div>
+
+**Venue**      
+You can take the RER B from Paris to Orsay-Ville (dir. St-Rémy lès Chevreuses). 
+At the train station, you go off either from the ouest exit to arrive in the Paris-Saclay campus or the east exit toward the city center of Orsay.  
+
 
 ---
 ### Jury Members: 
-➲ **[Rosario BRUNETTO](https://www.linkedin.com/in/rosario-brunetto-454a36127/)**, Directreur de thèse  
+➲ **[Rosario BRUNETTO](https://www.linkedin.com/in/rosario-brunetto-454a36127/)**, Directeur de thèse  
 ➲ **[Alice ALÉON-TOPPANI](https://www.researchgate.net/profile/Alice-Aleon-Toppani)**, Co-directrice de thèse  
 ➲ **[Zélia DIONNET](https://www.linkedin.com/in/z%C3%A9lia-dionnet-8b0784137/)**, Co-directrice de thèse  
 ➲ **[Frédéric MOYNIER](https://www.linkedin.com/in/fr%C3%A9d%C3%A9ric-moynier-312629a4/?originalSubdomain=fr)**, Rapporteur   
