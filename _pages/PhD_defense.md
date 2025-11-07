@@ -75,9 +75,9 @@ At the station, exit on the west side to reach the Paris-Saclay campus, or on th
 
 
 <img
-  src="images/orsay-map.png" 
-  alt="Map showing directions from Orsay-Ville station" 
-  style="max-width: 100%; height: auto; border-radius: 8px; margin-top: 16px;">
+  src='/images/orsay-map.png'
+  alt='Map showing directions from Orsay-Ville station' 
+  style='max-width: 100%; height: auto; border-radius: 8px; margin-top: 16px;'>
 
 ---
 ### Jury Members: 
