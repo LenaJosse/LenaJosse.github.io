@@ -45,7 +45,7 @@ The defense is open to all, and everyone is warmly welcome to attend either onli
 
 
 <a class="btn btn--primary btn--small" 
-  href="https://youtube.com/live/fp7e3oct2ww?feature=share" 
+  href="https://youtube.com/live/vwrhwxe6VW0?feature=share" 
   target="_blank" 
   rel="noopener"
   style="
